@@ -972,6 +972,9 @@ section .card .image img {
     display: flex;
     flex-direction: column;
   }
+  .modif{
+    display:flex;
+  }
   .lists-acces {
     background-color: var(--primary);
   }
